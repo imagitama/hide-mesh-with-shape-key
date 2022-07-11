@@ -4,9 +4,13 @@ A Blender plugin to join a mesh into another one and create a shape key to "hide
 
 It also creates a vertex group for the original vertices so you can select it easily.
 
+![](./assets/images/screenshot.png)
+
 ## Usage
 
 Tested in Blender 3.1.2.
+
+**Make a backup of your project to avoid losing any work.**
 
 1. Add the plugin to Blender
 2. Open the "Misc" tab
